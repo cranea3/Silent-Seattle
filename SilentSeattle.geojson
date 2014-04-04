@@ -64,6 +64,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "test": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38413333892822,
+          47.59348819315159
+        ]
+      }
     }
   ]
 }
